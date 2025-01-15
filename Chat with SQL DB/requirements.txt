@@ -1,0 +1,6 @@
+streamlit
+pathlib
+sqlalchemy
+sqlite3
+langchain
+langchain_groq
